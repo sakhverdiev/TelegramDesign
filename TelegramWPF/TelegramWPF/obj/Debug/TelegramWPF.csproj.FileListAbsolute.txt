@@ -1,0 +1,30 @@
+C:\Users\Senan\source\repos\New Location\TelegramWPF\TelegramWPF\bin\Debug\TelegramWPF.exe.config
+C:\Users\Senan\source\repos\New Location\TelegramWPF\TelegramWPF\bin\Debug\TelegramWPF.exe
+C:\Users\Senan\source\repos\New Location\TelegramWPF\TelegramWPF\bin\Debug\TelegramWPF.pdb
+C:\Users\Senan\source\repos\New Location\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF.csproj.AssemblyReference.cache
+C:\Users\Senan\source\repos\New Location\TelegramWPF\TelegramWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Senan\source\repos\New Location\TelegramWPF\TelegramWPF\obj\Debug\App.g.cs
+C:\Users\Senan\source\repos\New Location\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF_MarkupCompile.cache
+C:\Users\Senan\source\repos\New Location\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF_MarkupCompile.lref
+C:\Users\Senan\source\repos\New Location\TelegramWPF\TelegramWPF\obj\Debug\MainWindow.baml
+C:\Users\Senan\source\repos\New Location\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF.g.resources
+C:\Users\Senan\source\repos\New Location\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF.Properties.Resources.resources
+C:\Users\Senan\source\repos\New Location\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF.csproj.GenerateResource.cache
+C:\Users\Senan\source\repos\New Location\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF.csproj.CoreCompileInputs.cache
+C:\Users\Senan\source\repos\New Location\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF.exe
+C:\Users\Senan\source\repos\New Location\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF.pdb
+C:\Users\Senan\Desktop\TelegramWPF\TelegramWPF\bin\Debug\TelegramWPF.exe.config
+C:\Users\Senan\Desktop\TelegramWPF\TelegramWPF\bin\Debug\TelegramWPF.exe
+C:\Users\Senan\Desktop\TelegramWPF\TelegramWPF\bin\Debug\TelegramWPF.pdb
+C:\Users\Senan\Desktop\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF.csproj.AssemblyReference.cache
+C:\Users\Senan\Desktop\TelegramWPF\TelegramWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Senan\Desktop\TelegramWPF\TelegramWPF\obj\Debug\App.g.cs
+C:\Users\Senan\Desktop\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF_MarkupCompile.cache
+C:\Users\Senan\Desktop\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF_MarkupCompile.lref
+C:\Users\Senan\Desktop\TelegramWPF\TelegramWPF\obj\Debug\MainWindow.baml
+C:\Users\Senan\Desktop\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF.g.resources
+C:\Users\Senan\Desktop\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF.Properties.Resources.resources
+C:\Users\Senan\Desktop\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF.csproj.GenerateResource.cache
+C:\Users\Senan\Desktop\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF.csproj.CoreCompileInputs.cache
+C:\Users\Senan\Desktop\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF.exe
+C:\Users\Senan\Desktop\TelegramWPF\TelegramWPF\obj\Debug\TelegramWPF.pdb
